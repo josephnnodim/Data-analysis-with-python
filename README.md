@@ -1,2 +1,2 @@
 # my-progress in machine learning
-The ongoing and completed projects on Data Analysis 
+The is an ongoing and completed projects on Data Analysis 
